@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Olga 👋
 
 ## 🌐 Connect with me:
 
@@ -36,5 +36,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olyflower&show_icons=true&hide_rank=true)
